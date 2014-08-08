@@ -1,0 +1,2 @@
+module MikropostsHelper
+end
